@@ -16,6 +16,7 @@ const App = () => {
         value={input}
       />
       <p>Sum: {sum}</p>
+      <h1></h1>
     </div>
   );
 };
